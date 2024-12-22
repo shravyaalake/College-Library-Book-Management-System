@@ -31,7 +31,7 @@ Make sure you have the following installed on your machine:
 ### Steps to Install
 
 1. Clone the repository:
-    git clone https://github.com/akarsha895/Library_Management_System.git
+    git clone https://github.com/shravyaalake/College-Library-Book-Management-System.git
 
 2. Navigate to the project directory:
    cd Library_Management_System
